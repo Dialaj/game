@@ -8,9 +8,9 @@ Memory game is an image cards game that a player of this game have to remember t
 
 
 ## Technical Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 
 
