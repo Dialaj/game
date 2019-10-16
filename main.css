@@ -5,7 +5,6 @@
     box-sizing: border-box;
   }
 
-
 body {
     height: 100vh;
         background-color:black;
@@ -14,8 +13,6 @@ body {
         background-image: url(pii.gif) ;
        background-repeat: no-repeat;
        background-attachment: fixed;
-      
-
        
 }
 
@@ -35,8 +32,6 @@ flex-wrap: wrap;
 height:100px;
 margin-left: auto;
 margin-bottom: center;
-
-
 }
 
 
@@ -52,11 +47,7 @@ margin-bottom: center;
   box-shadow:  1px 1px 1px rgba(0, 0, 0, 0.623)  ;
   border-color: black;
 
-
-
 }
-
-
 
 .memory-card:active {
     transform: scale(0.97);
@@ -103,15 +94,15 @@ h1 {
     margin-left:0%;
     font-size :30px;
     font-style: oblique;
-color:white;
-border-color:black;
-width: 100%;
-background-color: rgba(0, 0, 0, 0.658);
+    color:white;
+    border-color:black;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.658);
   
 }
 
     .footer {
-   position: fixed;
+        position: fixed;
         left: 0;
         bottom: 0;
         width: 100%;
@@ -121,14 +112,12 @@ background-color: rgba(0, 0, 0, 0.658);
       }
 
       .header{
-       
-            position: top;
-             
+                position: top;
                  width: 100%;
                  background-color: rgba(0, 0, 0, 0.658);
                  color: white;
                  text-align: center;
-               font-size:50px;
+                 font-size:50px;
               
                }
          
@@ -137,7 +126,6 @@ background-color: rgba(0, 0, 0, 0.658);
                 color: white;
                 font-size: 16px;
                 padding: 12px 24px;
-          
                 text-align: center;
                 margin-left:30%;
                 font-style: oblique;
